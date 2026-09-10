@@ -1,6 +1,14 @@
 # threads-card
 
-Tiny HTTP service that turns a Threads post URL into a clean shareable PNG card.
+Turns a Threads post URL into a shareable PNG card, for the friends who do not have accounts.
+
+## Status
+
+Shipped — deployed on Railway.
+
+## License
+
+Not licensed for reuse.
 
 ## Why
 
